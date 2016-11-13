@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/mouse.png</file>
+        <file>image/power.ini</file>
+        <file>image/black.qss</file>
+    </qresource>
+</RCC>
